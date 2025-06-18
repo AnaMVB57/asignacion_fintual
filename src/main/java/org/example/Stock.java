@@ -2,7 +2,6 @@ package org.example;
 
 // Clase que representa una acción (Stock) de una empresa
 // incluyendo su nombre y precio (En porcentaje)
-
 public class Stock {
 
     //Atributos de la clase
